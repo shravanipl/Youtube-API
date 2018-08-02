@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+ }
+body{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+}
+button{
+    background-color: white;
+    border-radius: 30%;
+    color: black;
+    height: 30px;
+    width: 70px;
+    font-weight: bold;
+}
+
+h1{
+ font-size: 40px;
+}
+
+button:hover{
+    background-color : rgb(207, 65, 65);
+    color: white;
+    font-size: 15px;
+}
+
+img{
+    height:180px;
+    width: 320px;
+    border-radius: 15px;
+}
+
+.textbox{
+    height: 30px;
+}
